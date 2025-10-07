@@ -9,13 +9,17 @@ This project explores the correlation between various features in a movie datase
 - `requirements.txt`: Required Python packages for the project.
 - `README.md`: Project documentation.
 
+## 📊 Dataset
+
+The movie dataset used in this project can be found [here](https://www.kaggle.com/datasets/danielgrijalvas/movies).
+
 ## 🔧 Technologies Used
 
 - Python 3.12.7
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ## 🚀 How to Run
 
